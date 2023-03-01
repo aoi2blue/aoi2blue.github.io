@@ -1,7 +1,8 @@
 # よくある質問 (English below)
+### update: 3/1 18:30
 
 ## アカウント連携ができない/リザルトが取得できない
-<font color="Red">3/1 19:00解消されました</font>
+<font color="Red">3/1 18:30頃解消されました</font>
 日本時間3/1AMより発生しています。<br>
 NSOアプリが更新されたことで、salmdroidが連携/取得時に利用するログイン用サーバの対応が必要となっています。<br>
 対応が完了するまでお待ち下さい。<br>
@@ -21,7 +22,7 @@ ver2.0.0から環境によって発生しています。下記をお試しくだ
 # FAQ
 
 ## Fail connect account / get result
-<font color="Red">Fixed by 3/1 19:00 JST</font>
+<font color="Red">Fixed by 3/1 18:30 JST</font>
 Happen from 1, Mar AM (JST).<br>
 Because NSO app updated, it is need for update of login server what use when connect to account or get result.<br>
 Please wait for updating.<br>
