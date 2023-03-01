@@ -1,3 +1,12 @@
+[よくある質問](#よくある質問)
+[要望リスト](#要望リスト)
+[最後に](#最後に)
+[FAQ](#FAQ)
+[Request List](#RequestList)
+[From Developer](#FromDeveloper)
+
+---
+
 # よくある質問
 ### update: 3/1 18:30
 ### (English below)
@@ -18,6 +27,10 @@ ver2.0.0から環境によって発生しています。下記をお試しくだ
 5. アカウント連携を行う
 
 
+# 要望リスト
+
+# 最後に
+
 ---
 
 # FAQ
@@ -36,3 +49,7 @@ Please try re-connect to account as below (remain saved results when disconnect 
 3. When open confirm dialog, tap OK
 4. launch me
 5. connect to account
+
+# RequestList
+
+# FromDeveloper
