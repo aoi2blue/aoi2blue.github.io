@@ -1,6 +1,6 @@
 # よくある質問
-### (English below)
 ### update: 3/1 18:30
+### (English below)
 
 ## アカウント連携ができない/リザルトが取得できない
 <font color="Red">3/1 18:30頃解消されました</font>
