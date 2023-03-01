@@ -1,15 +1,18 @@
-[よくある質問](#よくある質問)
-[要望リスト](#要望リスト)
-[最後に](#最後に)
-[FAQ](#FAQ)
-[Request List](#RequestList)
-[From Developer](#FromDeveloper)
+### update: 3/1
+
+# 目次
+[よくある質問](#よくある質問)<br>
+[要望リスト](#要望リスト)<br>
+[最後に](#最後に)<br>
+
+# Contents
+[FAQ](#FAQ)<br>
+[Request List](#RequestList)<br>
+[From Developer](#FromDeveloper)<br>
 
 ---
 
 # よくある質問
-### update: 3/1 18:30
-### (English below)
 
 ## アカウント連携ができない/リザルトが取得できない
 <font color="Red">3/1 18:30頃解消されました</font>
@@ -28,8 +31,16 @@ ver2.0.0から環境によって発生しています。下記をお試しくだ
 
 
 # 要望リスト
+- カンストしたシフトに目印が欲しい
+- ステージごとのクリア率が欲しい
+- 今後のシフト予定が欲しい
+- 通算の統計が欲しい
 
 # 最後に
+いつもお使いいただきありがとうございます。
+不具合や要望は些細なことでも頂ければ幸いです。
+さらにもしよろしければ下記のほしいものリストからご支援いただけると開発の励みになります。
+https://www.amazon.jp/hz/wishlist/ls/N266KX5GC3JF?ref_=wl_share
 
 ---
 
@@ -51,5 +62,13 @@ Please try re-connect to account as below (remain saved results when disconnect 
 5. connect to account
 
 # RequestList
+- Want mark to shifts that reached to grade 999
+- Want clear rate each stage
+- Want future schedule
+- Want statistics of all result
 
 # FromDeveloper
+Thank you for using salmdroid app !
+Feel free that you send inquiry or requests.
+I would appreciate if you bought me from wish list.
+https://www.amazon.jp/hz/wishlist/ls/N266KX5GC3JF?ref_=wl_share
