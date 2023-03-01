@@ -37,10 +37,10 @@ ver2.0.0から環境によって発生しています。下記をお試しくだ
 - 通算の統計が欲しい
 
 # 最後に
-いつもお使いいただきありがとうございます。
-不具合や要望は些細なことでも頂ければ幸いです。
-さらにもしよろしければ下記のほしいものリストからご支援いただけると開発の励みになります。
-https://www.amazon.jp/hz/wishlist/ls/N266KX5GC3JF?ref_=wl_share
+いつもお使いいただきありがとうございます。<br>
+不具合や要望は些細なことでも頂ければ幸いです。<br>
+さらにもしよろしければ下記のほしいものリストからご支援いただけると開発の励みになります。<br>
+https://www.amazon.jp/hz/wishlist/ls/N266KX5GC3JF?ref_=wl_share<br>
 
 ---
 
@@ -68,7 +68,7 @@ Please try re-connect to account as below (remain saved results when disconnect 
 - Want statistics of all result
 
 # FromDeveloper
-Thank you for using salmdroid app !
-Feel free that you send inquiry or requests.
-I would appreciate if you bought me from wish list.
-https://www.amazon.jp/hz/wishlist/ls/N266KX5GC3JF?ref_=wl_share
+Thank you for using salmdroid app !<br>
+Feel free that you send inquiry or requests.<br>
+I would appreciate if you bought me from wish list.<br>
+https://www.amazon.jp/hz/wishlist/ls/N266KX5GC3JF?ref_=wl_share<br>
