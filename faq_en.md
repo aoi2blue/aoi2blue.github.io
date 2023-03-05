@@ -10,7 +10,7 @@
 
 # FAQ
 
-## Does toal defeat for salmonids correst
+## Does toal defeat correct
 Salmdroid app can not get data for all past worked job.
 So, calculate based on gotten and saved data.
 
