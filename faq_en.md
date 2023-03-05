@@ -40,8 +40,12 @@ Please try re-connect to account as below (remain saved results when disconnect 
 4. launch me
 5. connect to account
 
+---
+
 # BugList
 - Private jobs include to summary list for regular shift.
+
+---
 
 # RequestList
 - Want mark to shifts that reached to grade 999
@@ -49,6 +53,8 @@ Please try re-connect to account as below (remain saved results when disconnect 
 - Want future schedule
 - Want statistics of all result
 - Want for total defeat for each king salmonids
+
+---
 
 # FromDeveloper
 Thank you for using salmdroid app !<br>
