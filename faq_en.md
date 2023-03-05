@@ -21,7 +21,7 @@ For sum of appearance.
 Please re-connece account.
 1. open setting tab
 2. tap "Disconnect account"
-3. When open confirm dialog, tap OK
+3. when open confirm dialog, tap OK
 4. launch me
 5. connect to account
 
@@ -36,7 +36,7 @@ Sorry, This happens since ver 2.0.0.<br>
 Please try re-connect to account as below (remain saved results when disconnect account).<br>
 1. open setting tab
 2. tap "Disconnect account"
-3. When open confirm dialog, tap OK
+3. when open confirm dialog, tap OK
 4. launch me
 5. connect to account
 
