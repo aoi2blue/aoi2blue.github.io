@@ -27,8 +27,8 @@ Please re-connece account.
 
 ## Fail connect account / get result
 <font color="Red">Fixed by 3/1 18:30 JST.</font>~~Happen from 1, Mar AM (JST)~~<br>
-Because NSO app updated, it is need for update of login server what use when connect to account or get result.<br>
-Please wait for updating.<br>
+~~Because NSO app updated, it is need for update of login server what use when connect to account or get result.~~<br>
+~~Please wait for updating.~~<br>
 
 ## Fail Summary when get result
 <font color="Red">Add temporary solution to version 2.1.1.</font><br>
