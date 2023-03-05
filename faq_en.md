@@ -52,6 +52,7 @@ Please try re-connect to account as below (remain saved results when disconnect 
 - Want clear rate each stage
 - Want future schedule
 - Want statistics of all result
+- Want change background color to pure black
 - Want for total defeat for each king salmonids
 
 ---
