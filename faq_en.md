@@ -1,7 +1,8 @@
-### update: 3/5
+### update: 3/15
 
 # Contents
 [FAQ](#FAQ)<br>
+[Fixed](#Fixed)<br>
 [Bug List](#BugList)<br>
 [Request List](#RequestList)<br>
 [From Developer](#FromDeveloper)<br>
@@ -42,18 +43,25 @@ Please try re-connect to account as below (remain saved results when disconnect 
 
 ---
 
-# BugList
+# Fixed
 - Private jobs include to summary list for regular shift.
+- Want mark to shifts that reached to grade 999
+- Want future schedule
+- Want for total defeat for each king salmonids
+
+---
+
+# BugList
 
 ---
 
 # RequestList
-- Want mark to shifts that reached to grade 999
 - Want clear rate each stage
-- Want future schedule
 - Want statistics of all result
 - Want change background color to pure black
-- Want for total defeat for each king salmonids
+- Want automatic re-calculate data
+- Want automatic get result
+- Want show king salmonids to shifts list
 
 ---
 
