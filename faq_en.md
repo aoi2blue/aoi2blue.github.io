@@ -11,6 +11,9 @@
 
 # FAQ
 
+## Does total defeat include private job
+No. Not include private job.
+
 ## Does toal defeat correct
 Salmdroid app can not get data for all past worked job.
 So, calculate based on gotten and saved data.
@@ -43,15 +46,8 @@ Please try re-connect to account as below (remain saved results when disconnect 
 
 ---
 
-# Fixed
-- Private jobs include to summary list for regular shift.
-- Want mark to shifts that reached to grade 999
-- Want future schedule
-- Want for total defeat for each king salmonids
-
----
-
 # BugList
+- In statistics, sometimes Max Grade is wrong. (Maybe go and back EggVP <=> Pro)
 
 ---
 
@@ -62,6 +58,27 @@ Please try re-connect to account as below (remain saved results when disconnect 
 - Want automatic re-calculate data
 - Want automatic get result
 - Want show king salmonids to shifts list
+- Want re-calculate data by pull-to-refresh in shift list screen
+- Want each average data of nightless in statistics
+- Want string of stage name
+
+---
+
+# ReleaseNote
+
+### version 2.2.2
+- Fix: UI
+- Add: copyable scenario code
+
+### version 2.2.1
+- Fix: In case of can not open statistics screen
+- Fix: Reset max grade and played times in shift list
+
+### version 2.2.0
+- Fix: Private jobs include to summary list for regular shift.
+- Fix: Want mark to shifts that reached to grade 999
+- Fix: Want future schedule
+- Fix: Want for total defeat for each king salmonids
 
 ---
 
