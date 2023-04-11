@@ -1,4 +1,4 @@
-### update: 3/29
+### update: 4/11
 
 # Contents
 [FAQ](#FAQ)<br>
@@ -7,19 +7,29 @@
 [Request List](#RequestList)<br>
 [From Developer](#FromDeveloper)<br>
 
+[Inquiry/Feedback](https://docs.google.com/forms/d/e/1FAIpQLSfFl98x3KUkrAbwx0oG66yOFegL4Xc2ADAKDMhhGI2rZ5YGlg/viewform)<br>
+[twitter](https://twitter.com/salmdroid)<br>
+
 ---
 
 # FAQ
 
+## Cannot connect account / get result
+Depending on the status of the external server, there may be times when it cannot be used.<br>
+Please confirm here or twitter.<br>
+Other, I want to ask your situation and environment.<br>
+Please send inquiry with your e-mail or twitter id.<br>
+
 ## Does total defeat include private job
-No. Not include private job.
+No. Not include private job.<br>
 
 ## Does toal defeat correct
-Salmdroid app can not get data for all past worked job.
-So, calculate based on gotten and saved data.
+Salmdroid app can not get data for all past worked job.<br>
+So, calculate based on gotten and saved data.<br>
+And only your defeat (not team).<br>
 
 ## What defeat rate of statistics is based on
-For sum of appearance.
+For sum of appearance.<br>
 
 ## What should I do after change NintendoSwitchOnline account password
 Please re-connece account.
@@ -61,10 +71,15 @@ Please try re-connect to account as below (remain saved results when disconnect 
 - Want re-calculate data by pull-to-refresh in shift list screen
 - Want each average data of nightless in statistics
 - Want string of stage name
+- Want show number of appear golden eggs with EX-WAVE
+- Want show scenario code by regular job
 
 ---
 
 # ReleaseNote
+
+### version 2.2.3
+- Fix: Cannot all random rotation in future schedule
 
 ### version 2.2.2
 - Fix: UI
@@ -84,5 +99,5 @@ Please try re-connect to account as below (remain saved results when disconnect 
 
 # FromDeveloper
 Thank you for using salmdroid app !<br>
-Feel free that you send inquiry or requests from [here](https://docs.google.com/forms/d/e/1FAIpQLSfFl98x3KUkrAbwx0oG66yOFegL4Xc2ADAKDMhhGI2rZ5YGlg/viewform).<br>
+Feel free that you send inquiry or requests.<br>
 I would appreciate if you bought me from [wish list](https://www.amazon.jp/hz/wishlist/ls/N266KX5GC3JF?ref_=wl_share).<br>
