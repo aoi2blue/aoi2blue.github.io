@@ -1,4 +1,4 @@
-### update: 4/11
+### update: 4/12
 
 # Contents
 [FAQ](#FAQ)<br>
@@ -13,6 +13,10 @@
 ---
 
 # FAQ
+
+## About version 2.3.0
+- Save more information of rotation info. There is a case of clear info of max grade, point, played when get result.
+- Add space of advertisement. Preparing advertisement now, the space may be empty.
 
 ## Cannot connect account / get result
 Depending on the status of the external server, there may be times when it cannot be used.<br>
@@ -62,8 +66,6 @@ Please try re-connect to account as below (remain saved results when disconnect 
 ---
 
 # RequestList
-- Want clear rate each stage
-- Want statistics of all result
 - Want change background color to pure black
 - Want automatic re-calculate data
 - Want automatic get result
@@ -78,12 +80,17 @@ Please try re-connect to account as below (remain saved results when disconnect 
 
 # ReleaseNote
 
+### version 2.3.0
+- Add: Analyze
+- Add: Advertisement
+- Fix: Cannot open private job detail without scenario code
+
 ### version 2.2.3
 - Fix: Cannot all random rotation in future schedule
 
 ### version 2.2.2
-- Fix: UI
 - Add: copyable scenario code
+- Fix: UI
 
 ### version 2.2.1
 - Fix: In case of can not open statistics screen
