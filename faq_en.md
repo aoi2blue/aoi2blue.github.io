@@ -1,4 +1,4 @@
-### update: 4/12
+### update: 5/2
 
 # Contents
 [FAQ](#FAQ)<br>
@@ -27,10 +27,12 @@ Please send inquiry with your e-mail or twitter id.<br>
 ## Does total defeat include private job
 No. Not include private job.<br>
 
-## Does toal defeat correct
+## About total defeat correct
 Salmdroid app can not get data for all past worked job.<br>
 So, calculate based on gotten and saved data.<br>
 And only your defeat (not team).<br>
+Private job is NOT included.<br>
+Eggstra work is included (after version 2.3.2).(br>)
 
 ## What defeat rate of statistics is based on
 For sum of appearance.<br>
@@ -43,25 +45,9 @@ Please re-connece account.
 4. launch me
 5. connect to account
 
-## Fail connect account / get result
-<font color="Red">Fixed by 3/1 18:30 JST.</font>~~Happen from 1, Mar AM (JST)~~<br>
-~~Because NSO app updated, it is need for update of login server what use when connect to account or get result.~~<br>
-~~Please wait for updating.~~<br>
-
-## Fail Summary when get result
-<font color="Red">Add temporary solution to version 2.1.1.</font><br>
-Sorry, This happens since ver 2.0.0.<br>
-Please try re-connect to account as below (remain saved results when disconnect account).<br>
-1. open setting tab
-2. tap "Disconnect account"
-3. when open confirm dialog, tap OK
-4. launch me
-5. connect to account
-
 ---
 
 # BugList
-- In statistics, sometimes Max Grade is wrong. (Maybe go and back EggVP <=> Pro)
 
 ---
 
@@ -73,12 +59,26 @@ Please try re-connect to account as below (remain saved results when disconnect 
 - Want re-calculate data by pull-to-refresh in shift list screen
 - Want each average data of nightless in statistics
 - Want string of stage name
-- Want show number of appear golden eggs with EX-WAVE
 - Want show scenario code by regular job
+- Want to specify the offset to total defeat
+- Want to pay to remode ad
+- Want to filter to rotation list
+- Want information of eggs or rescue by each rotation time series
+- Want num of assist eggs in statistics
+- Want graph of number of jobs by hazard level
 
 ---
 
 # ReleaseNote
+
+### version 2.3.3
+- Add: Add Traditional/Simplified Chinese
+- Fix: In statistics, sometimes Max Grade is wrong
+
+### version 2.3.2
+### version 2.3.1
+- Add: Adapt for eggstra work
+- Add: Want show number of appear golden eggs with EX-WAVE
 
 ### version 2.3.0
 - Add: Analyze
