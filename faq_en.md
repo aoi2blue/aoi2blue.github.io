@@ -1,4 +1,4 @@
-### update: 5/2
+### update: 5/24
 
 # Contents
 [FAQ](#FAQ)<br>
@@ -13,6 +13,10 @@
 ---
 
 # FAQ
+
+## (From May,24)Cannot connect account / get result
+- Needs modify for updating NSO app.
+- Third party developers are analyzing, please wait.
 
 ## About version 2.3.0
 - Save more information of rotation info. There is a case of clear info of max grade, point, played when get result.
