@@ -1,7 +1,4 @@
-[日本語](./faq_ja.md)
-<br><br>
-[English](./faq_en.md)
-<br><br>
-[簡体字](./faq_zh.md)
-<br><br>
-[繁体字](./faq_zhtw.md)
+2023/05/26
+
+# salmdroidNWはアプリの公開及び更新を停止しました。
+# 今までご愛顧ありがとうございました。
